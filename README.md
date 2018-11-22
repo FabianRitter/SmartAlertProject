@@ -1,2 +1,2 @@
-# SmartAlertProject
-Project for """"Smart"""""" camera
+# facetracking-pi
+Face tracking with raspi3
